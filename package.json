@@ -1,0 +1,15 @@
+{
+  "name": "nu",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/waldenn/nu.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "livereloadx": "^0.3.7"
+  },
+  "scripts": {
+    "start": "./live.sh"
+  }
+}
